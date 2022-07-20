@@ -4,21 +4,21 @@
 ________________________________________
 ## Indicators
 * :bow_and_arrow: **Accuracy** - Accurate completion is necessary to meet NOC standards of Completeness - All required fields filled out completely 
-* :clock8: **Availability** - The service will be provided Monday - Saturday excluding holidays.
+* :clock8: **Availability** - The service will be provided 24x7 Monday - Saturday excluding holidays.
 ________________________________________
 ## Objectives
 * :bow_and_arrow: **Accuracy** - 99.9% accurate upon completion to meet NOC standards of Completeness - 99.9% fields completed per procedure 
-* :clock8: **Availability** - 99.9% available during Monday - Sunday including holidays.
+* :clock8: **Availability** - 99.9% available 24x7 during Monday - Sunday including holidays.
 * :hammer_and_wrench: **Response Time** - 99.9% email requests will be responded to within 2 hours 
 ________________________________________
 ## Agreements
 * :bow_and_arrow: **Accuracy** - 99% accurate upon completion to meet NOC standards Completeness - 99% fields completed within 7 business days 
-* :clock8: **Availability** - 99.9% available during Monday - Sunday including holidays.
+* :clock8: **Availability** - 99.9% available 24x7 during Monday - Sunday including holidays.
 * :hammer_and_wrench: **Response Time** - 99.9% email requests will be responded to within 2 hours
 ________________________________________
 ## Indicator	SLA
 * :bow_and_arrow: **Accuracy** -	99% accurate upon completion to meet NOC standards
-* :clock8: **Availability** -	99% available during Monday - Sunday including holidays
+* :clock8: **Availability** -	99% available 24x7 during Monday - Sunday including holidays
 * :heavy_check_mark: **Completeness** -	99% within 2 business days
 ________________________________________
 ## Quick Links
