@@ -1,7 +1,6 @@
 # :star: **NOC as Service-DN** :star:
 ## Overview 
-:mailbox_with_mail: **Email Requests and Escalations** - The NOC receives hundreds of emails a day many of which are email requests and issues that require resolutions and escalation to various teams.
-be provided 24x7 Monday - Saturday excluding holidays.
+:mailbox_with_mail: **Email Requests and Escalations** - The NOC receives hundreds of emails a day many of which are email requests and issues that require resolutions and escalation to various teams. 
 ________________________________________
 ## Objectives
 * :bow_and_arrow: **Accuracy** - 99.9% accurate upon completion to meet NOC standards. 
