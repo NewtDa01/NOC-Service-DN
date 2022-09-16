@@ -2,6 +2,10 @@
 ## Overview 
 :mailbox_with_mail: **Email Requests and Escalations** - The NOC receives hundreds of emails a day many of which are email requests and issues that require resolutions and escalation to various teams. 
 ________________________________________
+## Team 
+
+Donna Smith, Judith Barringer-Jenkins, NOC
+______________________________________________
 ## Indicator	
 * :bow_and_arrow: **Accuracy** -	99% accurate upon completion to meet NOC standards.
 * :clock8: **Availability** -	99% available 24x7 365 days including holidays.
